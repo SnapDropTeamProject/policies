@@ -17,4 +17,4 @@ Each commit message **must** clearly express what changes were made starting fro
 
 Here is an example of the commit message:
 
-`feat: added input validation for the CreateUserHandler.`
+`feat: added input validation for the CreateUserHandler`

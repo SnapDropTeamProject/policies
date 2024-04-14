@@ -19,6 +19,6 @@ The branch name should be written in **kebab case** (this is isn't a joke). You 
 
 Here is an example of the branch names using this policy:
 
-- feature/create-user-endpoint
-- update/create-user-input-validation
-- fix/create-user-db-transaction
+- `feature/create-user-endpoint`
+- `update/create-user-input-validation`
+- `fix/create-user-db-transaction`
